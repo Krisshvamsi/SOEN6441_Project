@@ -1,2 +1,2 @@
-# COMP6441_Project
+# SOEN6441_Project
 APP Project
